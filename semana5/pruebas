@@ -1,0 +1,11 @@
+Ruta: http://localhost:3000
+
+Resultado: Muestra el mensaje "Servidor activo", indicando que el servidor está funcionando correctamente.
+
+Ruta: http://localhost:3000/saludo
+
+Resultado: Muestra el mensaje "Hola comunidad".
+
+Ruta: http://localhost:3000/mensaje/sarai
+
+Resultado: Muestra el mensaje "Hola sarai". El nombre se obtiene desde la URL mediante un parámetro.
