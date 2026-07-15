@@ -1,0 +1,18 @@
+Automatización con n8n o Telegram
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Mensaje enviado:
+
+Nueva causa creada en la plataforma. Revisar el sistema para conocer los detalles.
+
+Información que no debe enviarse por seguridad:
+
+Documentos de identidad.
+Números telefónicos.
+Direcciones.
+Correos electrónicos.
+Comentarios privados.
+Contraseñas, tokens o claves de acceso.
+Cualquier otro dato personal o sensible.
